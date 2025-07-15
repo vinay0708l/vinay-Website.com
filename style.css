@@ -1,0 +1,102 @@
+body {
+    font-family: 'Helvetica Neue', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #40514e;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-top: 50px;
+    color: #66bfbf;
+}
+
+h2 {
+    color: #66bfbf;
+    margin-top: 20px;
+}
+
+h3 {
+    color: #11999e;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.hero {
+    background: #e4f9f5;
+    padding: 50px 20px;
+}
+
+.mountain-img {
+    width: 300px;
+    margin: 20px 0;
+}
+
+.hello {
+    padding: 50px 20px;
+}
+
+.profile-img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.skills {
+    background: #f7f7f7;
+    padding: 50px 20px;
+}
+
+.skill {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 800px;
+    margin: 20px auto;
+    flex-wrap: wrap;
+}
+
+.skill img {
+    width: 150px;
+    margin: 10px;
+}
+
+.skill div {
+    max-width: 400px;
+    text-align: left;
+    margin: 10px;
+}
+
+.contact {
+    padding: 50px 20px;
+}
+
+.btn {
+    background: #66bfbf;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #11999e;
+}
+
+footer {
+    background: #66bfbf;
+    color: white;
+    padding: 20px;
+}
+
+footer a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
